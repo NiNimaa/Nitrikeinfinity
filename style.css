@@ -1,0 +1,24 @@
+body {
+    background-image: url(../Nitrike/imagem\ de\ fundo\ vermelha\ escuro.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.credit {
+    background: rgba(247, 4, 4, 0.13);
+    font-size: 1.3em;
+    color: red;
+    padding: 1em;
+    border-radius: 0.5em;
+
+}
+
+credit a {
+    color: red;
+    transition: 1s;
+}
+
+.credit a:houver {
+    color: white;
+    text-shadow: 0 0 8px white;
+}
